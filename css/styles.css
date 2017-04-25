@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+		
+}
+
+.top {
+		margin:20px;
+		width: auto;
+		height:500px;
+		padding-top:20px;
+		background-color:black;
+}
+
+.top img{
+		width:400px;
+		float:left;
+}
+
+.p {
+		color:white;
+		padding-top:300px;
+		width:70%;
+		
+}
+
+.bottom {
+	width: 100%;
+	height:auto;
+	float:left;
+	margin-top: 100px;
+	color:red;
+}
+.bottom h1{
+	text-color:red;
+	text-align:left;
+}
